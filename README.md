@@ -15,5 +15,5 @@ For the last part, you will also need pystruct, which you can install using
 
 If it errors on installing PyQPBO or AD3, don't worry too much.
 
-Check out the documentation of scikit-learn at http://scikit-learn.org/dev/documentation
+Check out the documentation of scikit-learn at http://scikit-learn.org/dev/documentation.html
 and pystruct at http://pystruct.github.io
