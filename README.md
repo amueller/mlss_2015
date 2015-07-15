@@ -5,7 +5,7 @@ Notebooks / material for the machine learning software practical.
 This tutorial covers some of the tools provided by scikit-learn, as well as an
 introduction to pystruct.
 
-You need scikit-learn v0.15 and ipython v3.0 for this practical.
+You need at least scikit-learn v0.15 and ipython v3.0 for this practical.
 If you don't already have an installation, I recommend using the anaconda distribution:
 http://continuum.io/downloads
 
