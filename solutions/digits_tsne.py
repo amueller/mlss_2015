@@ -1,4 +1,4 @@
-from sklearn.manifolds import TSNE
+from sklearn.manifold import TSNE
 tsne = TSNE()
 X_tsne = tsne.fit_transform(X)
 plt.title("All classes")
